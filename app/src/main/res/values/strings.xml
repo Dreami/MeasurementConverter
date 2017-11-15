@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeasurementConverter</string>
+    <string-array name="measurements_array">
+        <item>grams</item>
+        <item>pounds</item>
+        <item>ounces</item>
+        <item>kilograms</item>
+        <item>stones</item>
+    </string-array>
+</resources>
